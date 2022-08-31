@@ -1,4 +1,4 @@
-# TAAAP-Java-GUI-Text_Editor
+# Java-GUI-Text_Editor
 
 This includes features such as:
 
